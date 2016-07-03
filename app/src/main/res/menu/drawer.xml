@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group >
+
+
+        <item
+            android:id="@+id/Update_personal_info"
+            android:title="Personal Info"
+            android:icon="@drawable/personal"
+
+            />
+
+
+        <!--
+               <item
+                   android:id="@+id/change_profile_gallery"
+                   android:title="Change Profile Pic from Gallery"
+                   android:icon="@drawable/gallerypp"
+                    />
+
+               <item
+                   android:id="@+id/change_profile_photo"
+                   android:title="Take Profile Picture"
+                   android:icon="@drawable/camerapp"
+                   />
+                   -->
+    </group>
+</menu>

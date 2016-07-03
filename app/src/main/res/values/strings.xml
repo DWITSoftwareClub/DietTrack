@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">DietTrack</string>
+    <string name="password_hint">Password</string>
+    <string name="userName">User Name</string>
+    <string name="user_hint">UserId</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email ID</string>
+    <string name="closeDrawer">CloseDrawer</string>
+    <string name="openDrawer">OpenDrawer</string>
+    <string name="signUp">Register!</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight in kg</string>
+    <string name="what">What Is a Balanced Diet?</string>
+    <string name="what1">A balanced diet is one that gives your body the nutrients it needs to function correctly.</string>
+    <string name="wImp">Why a Balanced Diet Is Important?</string>
+    <string name="Imp">A balanced diet is important because your organs and tissues need proper nutrition to work effectively. Without good nutrition, your body is more prone to disease, infection, fatigue, and poor performance. Children with a poor diet run the risk of growth and developmental problems and poor academic performance.</string>
+    <string name="Wcal">What is Calorie</string>
+    <string name="cal">The number of calories in a food is a measurement of the amount of energy stored in that food. Your body uses calories from food for walking, thinking, breathing, and other important functions. The average person needs to eat about 2,000 calories every day to maintain their weight.</string>
+    <string name="height">Height in cm</string>
+    <string name="achieve">How to Achieve a Balanced Diet?</string>
+    <string name="achh">At the core of a balanced diet are foods that are low in unnecessary fats and sugars but high in vitamins, minerals, and other nutrients. The following food groups are essential parts of a balanced diet.
+
+Fruits
+
+Vegetables
+
+Grains
+
+Proteins
+
+Dairy
+
+Oils</string>
+    <string name="emptyLogin">User Name or Password empty!!</string>
+    <string name="wrongLogin">User Name or Password is wrong. Please enter correct credentials..</string>
+    <string name="nor">Normal Calorie Intake</string>
+    <string name="nordata">children ages 2 to 8: 1,000 to 1,400 calories
+active women ages 14 to 30: 2,400 calories
+sedentary women ages 14 to 30: 1,800 to 2,000 calories
+active men ages 14 to 30: 2,800 to 3,000 calories
+sedentary men ages 14 to 30: 2,000 to 2,600 calories
+active men and women over 30: 2,200 to 3,000 calories
+sedentary men and women over 30: 1,800 to 2,200 calories</string>
+</resources>
